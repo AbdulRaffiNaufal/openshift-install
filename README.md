@@ -1,1 +1,1 @@
-# openshift-install
+# INSTALL OPENSHIFT MINIMUM CLUSTER
